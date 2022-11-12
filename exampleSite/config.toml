@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "https://precious-heliotrope-6a8124.netlify.app/"
 title = "Elate theme"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
